@@ -1,0 +1,153 @@
+[
+  {
+    "timestamp": "2025-10-18T10:06:09.925389",
+    "type": "hide",
+    "details": {
+      "cover_image": "stego_Gemini_Generated_Image_fu95llfu95llfu95_20251010_110423.png",
+      "payload_bytes": 154260,
+      "payload_kb": 150.64453125,
+      "capacity_used": 71.66315438062053,
+      "output_file": "stego_stego_Gemini_Generated_Image_fu95llfu95llfu95_20251010_110423_20251018_153601.png"
+    }
+  },
+  {
+    "timestamp": "2025-10-18T10:07:04.167413",
+    "type": "hide",
+    "details": {
+      "cover_image": "Gemini_Generated_Image_fu95llfu95llfu95.png",
+      "payload_bytes": 154260,
+      "payload_kb": 150.64453125,
+      "capacity_used": 71.65272184781021,
+      "output_file": "stego_Gemini_Generated_Image_fu95llfu95llfu95_20251018_153655.png"
+    }
+  },
+  {
+    "timestamp": "2025-10-18T10:07:33.926240",
+    "type": "reveal",
+    "details": {
+      "stego_image": "stego_Gemini_Generated_Image_fu95llfu95llfu95_20251018_153655.png",
+      "data_size_bytes": 154260,
+      "data_size_kb": 150.64453125
+    }
+  },
+  {
+    "timestamp": "2025-10-26T09:00:45.571059",
+    "type": "hide",
+    "details": {
+      "cover_image": "60811-125728-ip16pcambutton-xl.png",
+      "payload_bytes": 4,
+      "payload_kb": 0.00390625,
+      "capacity_used": 0.2901743733039577,
+      "output_file": "stego_60811-125728-ip16pcambutton-xl_20251026_143045.png"
+    }
+  },
+  {
+    "timestamp": "2025-10-26T09:01:31.740199",
+    "type": "reveal",
+    "details": {
+      "stego_image": "Iphone (2).png",
+      "data_size_bytes": 4,
+      "data_size_kb": 0.00390625
+    }
+  },
+  {
+    "timestamp": "2025-10-26T09:04:02.330051",
+    "type": "hide",
+    "details": {
+      "cover_image": "Hero BG.png",
+      "payload_bytes": 898832,
+      "payload_kb": 877.765625,
+      "capacity_used": 33.88154094492946,
+      "output_file": "stego_Hero BG_20251026_143316.png"
+    }
+  },
+  {
+    "timestamp": "2025-10-26T09:05:23.270325",
+    "type": "reveal",
+    "details": {
+      "stego_image": "stego_Hero BG_20251026_143316.png",
+      "data_size_bytes": 898832,
+      "data_size_kb": 877.765625
+    }
+  },
+  {
+    "timestamp": "2025-10-26T15:58:01.736684",
+    "type": "hide",
+    "details": {
+      "cover_image": "Gemini_Generated_Image_u60xguu60xguu60x.png",
+      "payload_bytes": 77081,
+      "payload_kb": 75.2744140625,
+      "capacity_used": 8.744398040522324,
+      "output_file": "stego_Gemini_Generated_Image_u60xguu60xguu60x_20251026_212735.png"
+    }
+  },
+  {
+    "timestamp": "2025-10-26T15:59:15.739164",
+    "type": "reveal",
+    "details": {
+      "stego_image": "stego_Gemini_Generated_Image_u60xguu60xguu60x_20251026_212735.png",
+      "data_size_bytes": 77081,
+      "data_size_kb": 75.2744140625
+    }
+  },
+  {
+    "timestamp": "2025-10-27T04:58:28.153445",
+    "type": "hide",
+    "details": {
+      "cover_image": "Gemini_Generated_Image_5rjhg25rjhg25rjh.png",
+      "payload_bytes": 77081,
+      "payload_kb": 75.2744140625,
+      "capacity_used": 34.99094184460684,
+      "output_file": "stego_Gemini_Generated_Image_5rjhg25rjhg25rjh_20251027_102819.png"
+    }
+  },
+  {
+    "timestamp": "2025-10-27T04:59:25.417190",
+    "type": "reveal",
+    "details": {
+      "stego_image": "stego_Gemini_Generated_Image_5rjhg25rjhg25rjh_20251027_102819.png",
+      "data_size_bytes": 77081,
+      "data_size_kb": 75.2744140625
+    }
+  },
+  {
+    "timestamp": "2025-10-27T06:22:21.963747",
+    "type": "hide",
+    "details": {
+      "cover_image": "Gemini_Generated_Image_qrwbskqrwbskqrwb.png",
+      "payload_bytes": 77081,
+      "payload_kb": 75.2744140625,
+      "capacity_used": 34.99094184460684,
+      "output_file": "stego_Gemini_Generated_Image_qrwbskqrwbskqrwb_20251027_115206.png"
+    }
+  },
+  {
+    "timestamp": "2025-10-27T06:23:52.462928",
+    "type": "reveal",
+    "details": {
+      "stego_image": "stego_Gemini_Generated_Image_qrwbskqrwbskqrwb_20251027_115206.png",
+      "data_size_bytes": 77081,
+      "data_size_kb": 75.2744140625
+    }
+  },
+  {
+    "timestamp": "2025-10-27T06:25:18.488317",
+    "type": "hide",
+    "details": {
+      "cover_image": "Gemini_Generated_Image_qrwbskqrwbskqrwb.png",
+      "payload_bytes": 14,
+      "payload_kb": 0.013671875,
+      "capacity_used": 0.11602581065401918,
+      "output_file": "stego_Gemini_Generated_Image_qrwbskqrwbskqrwb_20251027_115502.png"
+    }
+  },
+  {
+    "timestamp": "2025-10-27T06:26:02.799056",
+    "type": "reveal",
+    "details": {
+      "stego_image": "stego_Gemini_Generated_Image_qrwbskqrwbskqrwb_20251027_115502.png",
+      "data_size_bytes": 14,
+      "data_size_kb": 0.013671875
+    }
+  }
+]
